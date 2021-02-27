@@ -28,12 +28,13 @@ Using VBA and Excel Analyze Stock Data
 
 3. Summary: In a summary statement, address the following questions.
     1. What are the advantages or disadvantages of refactoring code?
-    2. How do these pros and cons apply to refactoring the original VBA script?
 
-    1. The biggest advantage to refacting the code was that it made the run time faster.
+    The biggest advantage to refacting the code was that it made the run time faster.
     Therefore making the code more efficient.  The only disadvantage was the code got a little longer versus the original code. But, it is a nice trade off to make the code move more efficiently.
 
-    2. Indexing was a huge part of refactoring the data.  In the original data, loops were created and abitriaully looking for certain values. In the refracted data, the index created a specific point for each ticker to follow.
+    2. How do these pros and cons apply to refactoring the original VBA script?
+
+     Indexing was a huge part of refactoring the data.  In the original data, loops were created and abitriaully looking for certain values. In the refracted data, the index created a specific point for each ticker to follow.
 
 
 
